@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/985564?s=300" alt="jschwind logo" width="300" height="300">
-</p>
-
 # Jürgen Schwind
 
 **Software Developer & Engineer**  
