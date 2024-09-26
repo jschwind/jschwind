@@ -31,7 +31,7 @@ I specialize in custom software solutions. I started programming in 1997 and fou
 - **Partner** | *Hegemann, Jäger, Schwind & Wienzek GdbR* | 2001 – 2010  
   Focused on software development and web programming for projects like Party-Worms.de.
 
-- **Student Developer** | *University of Applied Sciences, Worms* | 2001 – 2008  
+- **Student Developer** | *Fachhochschule, Worms* | 2001 – 2008  
   Developed various web and intranet projects at the university, including forums and custom tools.
 
 - **Working Student** | *CHW Computer GdbR* | 2001 – 2004  
@@ -49,7 +49,7 @@ I specialize in custom software solutions. I started programming in 1997 and fou
 - **Certified Trainer** | *IHK Rheinhessen* | 2011  
   Completed the certified trainer qualification (Ausbildereignungsprüfung) at the IHK Rheinhessen.
 
-- **Diploma in Computer Science (FH)** | *University of Applied Sciences, Worms* | 2001 – 2008  
+- **Diploma in Computer Science (FH)** | *Fachhochschule, Worms* | 2001 – 2008  
   Studied telecommunications in the computer science department, earning a Diploma in Computer Science (FH).
 
 - **Advanced Technical College Certificate** | *Berufsbildende Schule I, Worms* | 1999 – 2000  
