@@ -4,7 +4,7 @@
 Born in 1980, Worms, Germany. Over 27 years of experience in software development.
 
 ## 📜 About Me
-I specialize in custom software solutions. I started programming in 1997 and founded my first company in 1999. For further details, check out my [Website](https://juergen-schwind.de/).
+I specialize in custom software solutions. I started programming in 1997 and founded my first company in 1999.
 
 - **Experience**: 27 years
 - **Nationality**: German
