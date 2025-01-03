@@ -19,7 +19,7 @@ I specialize in custom software solutions. I started programming in 1997 and fou
 - **CEO** | *JBS New Media GmbH* | 2011 – Present  
   Founder and managing partner focusing on software and hardware development, IT project management, and optimization.
 
-- **Project Leader** | *VMG GmbH* | 2004 – Present  
+- **Project Leader** | *VMG GmbH* | 2004 – 2024  
   Leading the development and digitalization of software for the company's voucher books (both print and digital).
 
 - **Head of Development** | *VMG GmbH* | 2010 – 2021  
