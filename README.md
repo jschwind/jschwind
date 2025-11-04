@@ -86,4 +86,4 @@ I specialize in custom software solutions. I started programming in 1997 and fou
 I'm open to new projects or ideas.  
 Email: [web@juergen-schwind.de](mailto:github@juergen-schwind.de)
 
-For further details, check out my [Website](https://juergen-schwind.de/).
+For further details, check out my [Website](https://juergen-schwind.com/).
