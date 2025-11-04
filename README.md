@@ -64,22 +64,22 @@ I specialize in custom software solutions. I started programming in 1997 and fou
 
 ## 🛠 Skills
 
-- osWFrame
 - PHP
+- Symfony
 - SQL
 - JavaScript
 - HTML
 - CSS
 - Bootstrap
-- jQuery
 - SCSS
-- Symfony
-- Shell Scripting
-- Docker
-- Composer
-- Vue.js
+- Vue
+- jQuery
 - Element+
+- Shellscript
+- osWFrame
 - Delphi
+- C
+- Java
 
 ## 📫 Contact Me
 
