@@ -1,7 +1,7 @@
 # Jürgen Schwind
 
 **Software Developer & Engineer**  
-Born in 1980, Worms, Germany. Over 28 years of experience in software development.
+Born in 1980, Worms, Germany. Over 29 years of experience in software development.
 
 ## 📜 About Me
 I specialize in custom software solutions. I started programming in 1997 and founded my first company in 1999.
